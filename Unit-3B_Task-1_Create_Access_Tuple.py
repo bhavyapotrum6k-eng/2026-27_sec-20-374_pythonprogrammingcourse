@@ -1,0 +1,6 @@
+t = (10, 20, 30, 40, 50)
+print("Tuple:", t)
+print("First:", t[0])
+print("Second:", t[1])
+print("Last:", t[-1])
+print("Slicing:", t[1:4])
